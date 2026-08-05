@@ -1,0 +1,9 @@
+# GitHub Pages builds this with Jekyll. No theme and no plugins on purpose:
+# the legal pages have to render even if a gem or a CDN is unavailable, so
+# everything they need is in _layouts/default.html.
+title: Bud Years
+description: Steady, daily practice for the tests and competitions that shape your next few years.
+url: https://budyears.com
+markdown: kramdown
+exclude:
+  - README.md

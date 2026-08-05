@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}{% if page.title %} · {% endif %}Bud Years</title>
+<meta name="description" content="{{ page.description | default: 'Bud Years — steady, daily practice for the tests and competitions that shape your next few years.' }}">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📗</text></svg>">
+<style>
+  /* One file, no build step, no third-party fonts. A legal page that depends
+     on a CDN is a legal page that can fail to load for the reviewer. */
+  :root {
+    --ink: #1a1a2e;
+    --muted: #5c5c72;
+    --accent: #324dc7;
+    --line: #e3e3ec;
+    --bg: #ffffff;
+    --panel: #f6f6fb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #e8e8f0; --muted: #a6a6bd; --accent: #93a4f4;
+      --line: #2c2c3d; --bg: #14141f; --panel: #1c1c2a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap { max-width: 44rem; margin: 0 auto; padding: 0 1.25rem 5rem; }
+  header {
+    border-bottom: 1px solid var(--line); margin-bottom: 2.5rem;
+    padding: 1.25rem 0;
+  }
+  header .wrap { padding-bottom: 0; display: flex; align-items: center;
+                 justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .brand { font-weight: 700; font-size: 1.1rem; text-decoration: none;
+           color: var(--ink); }
+  nav a { color: var(--muted); text-decoration: none; margin-left: 1.25rem;
+          font-size: .95rem; }
+  nav a:hover { color: var(--accent); }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 .5rem; }
+  h2 { font-size: 1.25rem; margin: 2.5rem 0 .75rem; }
+  h3 { font-size: 1.05rem; margin: 1.75rem 0 .5rem; }
+  a { color: var(--accent); }
+  code { background: var(--panel); padding: .1em .35em; border-radius: 4px;
+         font-size: .9em; }
+  table { border-collapse: collapse; width: 100%; margin: 1.25rem 0;
+          display: block; overflow-x: auto; }
+  th, td { border: 1px solid var(--line); padding: .5rem .7rem;
+           text-align: left; font-size: .95rem; }
+  th { background: var(--panel); }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
+  blockquote { margin: 1.5rem 0; padding: .9rem 1.1rem; background: var(--panel);
+               border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; }
+  blockquote p { margin: 0; }
+  footer { border-top: 1px solid var(--line); margin-top: 4rem; padding-top: 1.5rem;
+           color: var(--muted); font-size: .9rem; }
+  ul { padding-left: 1.25rem; }
+  li { margin: .35rem 0; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="brand" href="/">Bud Years</a>
+    <nav>
+      <a href="/privacy">Privacy</a>
+      <a href="/terms">Terms</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{{ content }}
+</main>
+<footer class="wrap">
+  <p>Bud Years · <a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms of Use</a></p>
+</footer>
+</body>
+</html>
