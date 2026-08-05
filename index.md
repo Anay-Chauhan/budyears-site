@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: ""   # intentionally blank: the layout renders just "Bud Years"
 description: Steady, daily practice for the tests and competitions that shape your next few years.
 permalink: /
 ---
