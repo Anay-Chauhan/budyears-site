@@ -99,6 +99,24 @@ change their formats, and should not be relied on as your only source of
 preparation. Always check the official specification published by the relevant
 examining body.
 
+**No course covers everything its examination can test, and none of them claim
+to.** Bud Years is deliberately built from short standalone questions. That
+format suits daily practice and it cannot reproduce everything an examination
+does — long shared reading passages, full-length timed papers, essays, and
+some question formats are outside what the app offers, and the topic coverage
+of any course may be uneven, incomplete, or out of date.
+
+Where we know a course leaves something out, **we say so on the subject itself,
+before you start it**, and you should read that note. Where we have not said
+so, do not infer that coverage is complete: absence of a note means we have not
+identified a gap, not that there is none.
+
+**Bud Years is a supplement to preparation, not a substitute for it.** Use it
+alongside the official specification, past papers, and whatever your school or
+tutor provides. If you use it as your only preparation and something you were
+tested on was not in it, that is the expected consequence of how the app is
+built, and it is described here so that it is not a surprise.
+
 ## 3A. How the content is made, and the part AI played
 
 **Some of the questions, answers, explanations, and vocabulary entries in Bud
