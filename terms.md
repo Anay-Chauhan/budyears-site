@@ -79,6 +79,33 @@ change their formats, and should not be relied on as your only source of
 preparation. Always check the official specification published by the relevant
 examining body.
 
+## 3A. How the content is made, and the part AI played
+
+**Some of the questions, answers, explanations, and vocabulary entries in Bud
+Years were drafted with the help of AI tools.** Everything is then checked —
+by automated checks that re-solve mathematics with a computer algebra system,
+compare stated answers against their own working, and scan for duplicates and
+spelling errors, and by a person reading it.
+
+Two things follow, and both matter more than the label:
+
+- **AI-assisted drafting does not make content correct, and human checking does
+  not make it perfect.** Section 3 already says we do not warrant accuracy.
+  That applies to every question regardless of how it was written. If something
+  looks wrong, it may be wrong — tell us at `[SUPPORT EMAIL]`.
+- **The app does not run AI.** There is no chatbot, no generated response, and
+  nothing produced while you use it. Every question you see was written,
+  checked, and published before you opened the app. Nothing you type or mark is
+  sent to an AI system, or to us, or anywhere else.
+
+We disclose this because you are entitled to know how your study material was
+made, not because a particular law compels it for an app of this kind. Where
+disclosure rules do apply to AI-generated content — the EU AI Act's
+transparency provisions, and comparable rules elsewhere — they are aimed
+principally at systems that generate content while you interact with them, and
+at large providers. This notice is intended to satisfy the spirit of those
+rules regardless.
+
 ## 4. Trademarks and independence
 
 `[LEGAL NAME]` is **not affiliated with, endorsed by, sponsored by, or
@@ -156,9 +183,19 @@ To the fullest extent permitted by law:
 - We are not liable for any examination result, grade, admission decision,
   scholarship, placement, or career outcome, whether or not you used the app.
 - We are not liable for loss of your on-device study record.
-- Our total aggregate liability arising out of or relating to the app is
-  limited to the greater of the amount you actually paid us for the app in the
-  12 months before the claim, or `[AMOUNT, e.g. US$25]`.
+- **Per person.** Our total aggregate liability **to you** — meaning to each
+  individual user, across every claim that user brings — arising out of or
+  relating to the app is limited to the greater of the amount **you** actually
+  paid us in the 12 months before the claim, or `[AMOUNT, e.g. US$50]`. This
+  is a cap on what any one person may recover, not a single pot shared between
+  everyone who uses the app.
+
+**The app is provided free of charge.** Every course published today is free,
+you are not required to use it, and you receive it without paying us anything.
+That is part of why these limits are set where they are: what is reasonable to
+promise about something given away is not what is reasonable to promise about
+something sold. If we ever charge for a course, the amount you paid becomes the
+floor of the cap above.
 
 **Nothing in these terms excludes or limits liability that cannot lawfully be
 excluded or limited.** Depending on where you live, that will include
@@ -174,6 +211,18 @@ particular:
   the Unfair Contract Terms Act 1977.
 - **India.** Nothing here affects your rights under the Consumer Protection
   Act, 2019, including your right to approach a consumer commission.
+- **Canada.** Provincial consumer protection legislation — for example
+  Ontario's *Consumer Protection Act, 2002* and Quebec's *Consumer Protection
+  Act* — voids certain exclusions of implied warranties and certain limits on
+  consumer remedies. Nothing here overrides them. In Quebec, article 11.1 of
+  the *Consumer Protection Act* makes a clause requiring a consumer to
+  arbitrate unenforceable, and Ontario's section 7 has the same effect;
+  section 14 below is confined to the United States and does not apply to you
+  in any event.
+- **Mexico.** Nothing here affects your rights under the *Ley Federal de
+  Protección al Consumidor*, including your right to bring a complaint to
+  PROFECO. Article 90 of that Act voids clauses that exempt a supplier from
+  liability, and this section is to be read subject to it.
 - **United Kingdom, EU and EEA.** Nothing here affects your non-excludable
   statutory rights as a consumer.
 Some jurisdictions do not allow the exclusion of implied warranties or the

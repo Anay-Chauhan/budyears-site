@@ -171,6 +171,21 @@ see whether you reviewed the app or what you said.
   not — they never leave your device. The analytics described in section 3.3
   count events, not people.
 
+## 4A. Artificial intelligence
+
+Some of the study content in Bud Years was drafted with the help of AI tools
+and then checked, which is described in section 3A of the
+[Terms of Use](/terms).
+
+For privacy, the only points that matter are these:
+
+- **Nothing about you is sent to an AI system.** The app does not run AI while
+  you use it. There is no chatbot and nothing is generated in response to what
+  you do.
+- **We do not use anything from you to train an AI model**, and we do not
+  provide anything from you to anyone else for that purpose. There is very
+  little to provide: your answers and progress never leave your device at all.
+
 ## 5. Purchases
 
 `[REMOVE THIS SECTION UNTIL PAID CONTENT IS ACTUALLY OFFERED.]`
@@ -236,6 +251,53 @@ behavioural information.
 India currently sits in the opt-out regime in analytics_consent.dart, meaning
 analytics default ON. Either move India to ask-first, or do not publish this
 paragraph.]`
+
+**Canada**
+
+Federal privacy law (PIPEDA) and, in Quebec, the *Act respecting the protection
+of personal information in the private sector* as amended by Law 25, apply to
+what little we collect.
+
+Quebec's Law 25 requires that any technology used to profile, locate, or
+identify a person be **switched off by default**. Usage analytics are therefore
+**off by default in Quebec**, as they are in the UK and EU/EEA, and stay off
+unless you turn them on. Crash reports contain no profiling information.
+
+`[DEVELOPER: Quebec is not distinguishable from the rest of Canada by country
+code alone. Either treat all of CA as ask-first, or read the locale's language
+and region together. Do not publish this paragraph until the code does one of
+them.]`
+
+`[DEVELOPER: Law 25 requires a named person responsible for privacy protection,
+whose title and contact must be published. Add them, or delete this sentence.]`
+
+**Mexico**
+
+Mexican data protection law requires a privacy notice (*aviso de privacidad*)
+stating who is responsible, what is collected, why, and how you may exercise
+your ARCO rights — **acceso, rectificación, cancelación y oposición**. This
+document is that notice.
+
+The responsible party is `[LEGAL NAME]`, `[ADDRESS]`. To exercise any ARCO
+right, or to withdraw consent, write to `[PRIVACY CONTACT EMAIL]`. Because we
+hold no information that identifies you, the usual answer will be that there is
+nothing to access, correct, or delete beyond what uninstalling the app removes
+— and we will say so rather than pretend otherwise.
+
+`[DEVELOPER: Mexico replaced the LFPDPPP in 2025 and moved oversight away from
+INAI. The requirements above are the long-standing ones and are unlikely to
+have been dropped, but the current regulator, its name, and the complaint route
+must be confirmed before publishing. Do not take this paragraph as current.]`
+
+**Language**
+
+This policy is written in English only. Quebec's *Charter of the French
+Language* and Mexican consumer law both require consumer-facing documents to be
+available in French and Spanish respectively.
+
+`[DEVELOPER: translations are required before publishing in Quebec or Mexico.
+The app itself is English-only, which is a separate question from the documents
+and may matter to store review in those markets.]`
 
 **A note for the UK**
 
