@@ -237,19 +237,23 @@ To the fullest extent permitted by law:
   check it before you rely on it — section 3 says we do not warrant that any of
   it is correct, and that is not a formality.
 - We are not liable for loss of your on-device study record.
-- **Per person.** Our total aggregate liability **to you** — meaning to each
-  individual user, across every claim that user brings — arising out of or
-  relating to the app is limited to the greater of the amount **you** actually
-  paid us in the 12 months before the claim, or `[AMOUNT, e.g. US$50]`. This
-  is a cap on what any one person may recover, not a single pot shared between
-  everyone who uses the app.
+- **Per person, and no more than you paid.** Our total aggregate liability
+  **to you** — meaning to each individual user, across every claim that user
+  brings — arising out of or relating to the app is limited to **the amount you
+  actually paid us in the 12 months before the claim arose**. This is a cap on
+  what any one person may recover, not a single pot shared between everyone who
+  uses the app.
 
-**The app is provided free of charge.** Every course published today is free,
-you are not required to use it, and you receive it without paying us anything.
-That is part of why these limits are set where they are: what is reasonable to
-promise about something given away is not what is reasonable to promise about
-something sold. If we ever charge for a course, the amount you paid becomes the
-floor of the cap above.
+**Most of the app is free, and you choose to use it.** Every course published
+today costs nothing, nobody is required to install it, and you receive it
+without paying us anything. Where you have paid for a course, your recovery is
+capped at what you paid for it; where you have paid nothing, this section
+limits recovery to nothing.
+
+That is a strong limit and we would rather state it plainly than bury it. Two
+things sit behind it and are not affected by it: the rights listed below that
+cannot lawfully be excluded, and the fact that if something in the app is
+faulty or not as described, section 5 and your statutory rights still apply.
 
 **Nothing in these terms excludes or limits liability that cannot lawfully be
 excluded or limited.** Depending on where you live, that will include
@@ -353,11 +357,14 @@ over any representative proceeding.
 **Small claims.** Either of us may instead bring an individual claim in small
 claims court in `[COUNTY, STATE]`, if it qualifies.
 
-**You can opt out.** You may reject this arbitration section by emailing
-`[CONTACT EMAIL]` with the subject line "Arbitration Opt-Out" within **30
-days** of first using the app, giving your device platform and the date.
-Opting out costs nothing, changes nothing else in these terms, and does not
-affect your use of the app.
+**You can opt out of arbitration.** You may reject the arbitration requirement
+by emailing `[CONTACT EMAIL]` with the subject line "Arbitration Opt-Out"
+within **30 days** of first using the app, giving your device platform and the
+date. Opting out costs nothing and does not affect your use of the app.
+
+**Opting out does not remove the individual-claims requirement.** If you opt
+out, disputes go to court rather than to an arbitrator, and they still go
+there individually rather than as a class or representative action.
 
 **Severability.** If the individual-claims requirement is held unenforceable
 as to any claim, that claim is severed from arbitration and heard in court;
@@ -365,10 +372,18 @@ the rest of this section survives.
 
 ### If you are outside the United States
 
-The arbitration section above does not apply to you. **Nothing in these terms
-requires you to arbitrate, or prevents you from bringing proceedings in the
-courts of the country where you live**, including any consumer forum available
+The arbitration section above does not apply to you, and **neither does the
+individual-claims requirement**. Nothing in these terms requires you to
+arbitrate, prevents you from joining a class, collective, group or
+representative proceeding, or prevents you from bringing proceedings in the
+courts of the country where you live, including any consumer forum available
 to you.
+
+This is deliberate rather than an oversight. Class and representative actions
+cannot be waived by contract in much of the EU, and India, Australia and Canada
+each provide consumer or representative routes that a term like this cannot
+close. A clause purporting to shut them would not work and could take the rest
+of section 14 down with it.
 
 ## 15. Changes to these terms
 
