@@ -230,6 +230,12 @@ To the fullest extent permitted by law:
   or anticipated savings.
 - We are not liable for any examination result, grade, admission decision,
   scholarship, placement, or career outcome, whether or not you used the app.
+- **We are not responsible for any decision you make, any action you take or
+  do not take, any interpretation you form, or any consequence of any of
+  those, arising from your use of the app or of anything in it.** What you do
+  with the material is yours to judge. If an answer or explanation looks wrong,
+  check it before you rely on it — section 3 says we do not warrant that any of
+  it is correct, and that is not a formality.
 - We are not liable for loss of your on-device study record.
 - **Per person.** Our total aggregate liability **to you** — meaning to each
   individual user, across every claim that user brings — arising out of or
