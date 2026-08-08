@@ -303,6 +303,12 @@ things sit behind it and are not affected by it: the rights listed below that
 cannot lawfully be excluded, and the fact that if something in the app is
 faulty or not as described, section 5 and your statutory rights still apply.
 
+**This is a deliberate allocation of risk, and both of us are agreeing to it.**
+The app is given away, we make no money from a free user, and we could not
+offer it at all if using it exposed us to open-ended claims. The exclusions and
+the cap are the price of it existing. We think that is a fair trade and we are
+saying so here rather than leaving a court to guess whether we thought about it.
+
 **Nothing in these terms excludes or limits liability that cannot lawfully be
 excluded or limited.** Depending on where you live, that will include
 liability for death or personal injury caused by negligence, for fraud or
@@ -383,10 +389,11 @@ mandatory consumer protections, nothing here removes that right.
 
 ### Talk to us first
 
-Whatever the problem, write to `[CONTACT EMAIL]` describing it and what you
-would like done. Neither of us may start a formal proceeding until 30 days
-after that notice. Most things can be settled this way and we would like the
-chance.
+Whatever the problem, write to `[CONTACT EMAIL]` with the subject line
+"Dispute Notice". Tell us who you are, what happened, and what you would like
+us to do about it — a notice that does not say what you want cannot be settled.
+Neither of us may start a formal proceeding until 30 days after that notice.
+Most things can be settled this way and we would like the chance.
 
 ### If you are in the United States
 
@@ -402,8 +409,33 @@ capacity, and not as a plaintiff or class member in any class, collective, or
 representative proceeding. An arbitrator may not consolidate claims or preside
 over any representative proceeding.
 
+**What you are giving up.** Arbitration has no judge and no jury, discovery is
+limited, and a court's power to review the outcome is narrow. **You and we both
+knowingly give up the right to a trial by judge or jury.** That is the trade
+arbitration makes, and you should understand it before agreeing.
+
+**Who decides what is arbitrable.** The arbitrator decides questions about the
+scope and enforceability of this section, including whether a particular
+dispute belongs in arbitration at all.
+
 **Small claims.** Either of us may instead bring an individual claim in small
 claims court in `[COUNTY, STATE]`, if it qualifies.
+
+**Claims that stay in court.** Either of us may go straight to court, without
+arbitrating, for a claim about copyright, trade marks, trade secrets, or the
+scraping or bulk extraction of the app's content. Those are claims about who
+owns the material rather than about your use of the app, and they belong in
+front of a judge.
+
+**If many identical claims are filed at once.** If 25 or more arbitration
+demands are filed against us that raise substantially the same issues and are
+brought by the same or coordinated representatives, we may require them to be
+heard in batches of no more than 25, with one arbitrator and one set of filing
+fees per batch, and with later batches paused until the first is decided. This
+is not a way of avoiding claims — every demand still gets heard. It exists
+because filing fees alone, charged in bulk against a single developer, can
+exceed the value of every claim combined, and a rule that makes the process
+unusable is not a fair process.
 
 **You can opt out of arbitration.** You may reject the arbitration requirement
 by emailing `[CONTACT EMAIL]` with the subject line "Arbitration Opt-Out"
@@ -414,9 +446,12 @@ date. Opting out costs nothing and does not affect your use of the app.
 out, disputes go to court rather than to an arbitrator, and they still go
 there individually rather than as a class or representative action.
 
-**Severability.** If the individual-claims requirement is held unenforceable
-as to any claim, that claim is severed from arbitration and heard in court;
-the rest of this section survives.
+**Severability, and one thing that is not severable.** If any part of this
+section is held unenforceable, the rest of it stands — **except** the
+individual-claims requirement. If that is held unenforceable, **this entire
+arbitration section falls with it** and the dispute goes to court. Neither of
+us has agreed to a class arbitration, and neither of us should end up in one by
+accident.
 
 ### If you are outside the United States
 

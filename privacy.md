@@ -320,6 +320,16 @@ Where required, transfers out of the UK or European Economic Area rely on the
 European Commission's Standard Contractual Clauses, as incorporated into
 Google's terms.
 
+## 7A. If the app changes hands
+
+If Bud Years is ever sold, merged, or transferred to someone else, the crash
+and analytics data described above may transfer with it. Whoever receives it
+would be bound by this policy until they published their own, and we would say
+so in the app before it happened.
+
+Nothing on your device transfers, because nothing on your device is ours to
+transfer.
+
 ## 8. How long we keep things
 
 - **On-device data:** until you delete it, or delete the app. You can clear
@@ -365,6 +375,44 @@ there is no mailing list.
 Please do not include anything sensitive in an error report. To tell us a
 question is wrong we need the course, the subject, and the question. We do not
 need to know anything about you.
+
+## 9B. Decisions the app makes about you automatically
+
+The app does make automated decisions — which problems you see next, how big a
+day's set is, when a problem you got wrong comes back, when a course is
+considered learned. That is the whole design.
+
+All of it runs **on your device**, from answers you marked yourself, and none
+of it reaches us. It produces no legal effect and nothing of similar
+significance: the worst consequence of the algorithm being wrong is a day's
+practice that is too easy or too hard.
+
+We do not profile you, we do not score or rank you against anyone else, and no
+decision about you is made anywhere except on your own phone.
+
+## 9C. If you live in a US state with a privacy law
+
+California, and around twenty other states, give residents rights over their
+personal information — to know what is held, to have it corrected or deleted,
+to obtain a copy, and to opt out of its sale or of targeted advertising.
+
+Most of those laws only bind businesses above a size threshold, and we are an
+independent developer well below them. Rather than argue about whether they
+apply, here is the position:
+
+- **We do not sell personal information**, and we do not share it for
+  cross-context behavioural advertising, as those terms are defined by the
+  CCPA/CPRA and its equivalents. There is no advertising in Bud Years at all.
+- **We do not collect sensitive personal information**, and we do not use or
+  disclose any for a purpose that would trigger a right to limit it.
+- **We do not discriminate** against anyone for exercising a privacy right.
+  There is nothing to withhold: declining analytics changes nothing about what
+  the app does.
+- To exercise any right, write to `[PRIVACY CONTACT EMAIL]`. We will answer
+  within the period your state's law allows, and if we cannot link a request to
+  any record — which is likely, because we hold nothing that identifies you —
+  we will tell you that plainly rather than ask for identifying information we
+  would then have to keep.
 
 ## 10. Security
 
