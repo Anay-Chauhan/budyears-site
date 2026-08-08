@@ -61,9 +61,22 @@ transmitted anywhere:
   where you actually are
 - Whether you have told us you are 13 or over. The **answer**, not the year of
   birth you gave to reach it, and not a date. See section 3.3
+- If that answer was “under 13”, the year we should ask again — which is the
+  year you turn 14. It is your birth year plus fourteen, so anyone who read it
+  could work the birth year out; we keep it because it is the date the answer
+  stops being reliable, not because it hides anything. It is deleted the moment
+  it is reached
 
-If you delete the app, all of it is deleted with it. There is no copy on a
-server, so there is nothing for us to restore, export, or hand to anyone else.
+If you delete the app, all of it is deleted with it.
+
+**One qualification, because it would otherwise be misleading.** Both Apple and
+Google back up app data as part of their ordinary device backups — iCloud
+Backup and Android Auto Backup — and we leave that switched on, so that a
+student who replaces a phone does not lose months of work. That backup lives in
+**your** account, under your own credentials and your own encryption. We cannot
+read it, we are not sent it, and we cannot restore, export, or hand it to
+anyone. But it does mean a copy exists outside the device, and you control it
+from your Apple or Google account settings rather than from us.
 
 ## 3. What does leave your device
 
@@ -173,6 +186,13 @@ only in its code, so the first session is silent. They stay off until:
 Everywhere else, once an age of 13 or over has been given, statistics run and
 can be switched off at any time from **Settings → Usage analytics**, which
 stops collection from that moment.
+
+**An answer of “under 13” is not permanent, but it never expires upward on its
+own.** Someone who answers at twelve is fifteen three years later, so we keep
+the year they turn 14 and, when it arrives, forget the answer and go back to
+collecting nothing until we are told again. Reaching that year never starts
+collection by itself — it can only stop it and put the question back. You can
+answer, or change your answer, at any time from **Settings → Your age**.
 
 If you were using Bud Years before this changed, you were never asked — so
 your age is unknown to the app and statistics are off until you answer.
