@@ -352,6 +352,20 @@ supervisory authority.
 those terms are defined by the CCPA/CPRA, and we do not use sensitive personal
 information for inferring characteristics.
 
+## 9A. If you write to us
+
+There is one way you can give us personal information, and it is by choosing
+to: emailing us a question, a correction, or a rights request.
+
+If you do, we hold your message and your email address for as long as it takes
+to deal with it, and for a reasonable period afterwards so we can recognise a
+follow-up. We use it for nothing else. We do not add you to a mailing list —
+there is no mailing list.
+
+Please do not include anything sensitive in an error report. To tell us a
+question is wrong we need the course, the subject, and the question. We do not
+need to know anything about you.
+
 ## 10. Security
 
 Content is delivered over encrypted connections (HTTPS/TLS). Data on your

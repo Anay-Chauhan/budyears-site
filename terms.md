@@ -64,6 +64,26 @@ You may **not**:
 The app and its content are protected by copyright and other rights. Except
 for the licence above, nothing here transfers any ownership to you.
 
+## 2A. Corrections and suggestions you send us
+
+We ask you throughout these terms to tell us when something looks wrong, and we
+mean it — a reported error is worth more to us than a five-star review.
+
+If you send us a correction, a suggestion, or any other feedback:
+
+- **You keep whatever rights you have in it.** We are not claiming ownership of
+  your idea.
+- **You allow us to use it** to fix and improve the app, without payment,
+  attribution, or any obligation to you, and without having to keep it
+  confidential. If you tell us question 412 has the wrong sign, we will change
+  the sign and we will not owe you anything for it.
+- **Please do not send us anything you are not free to share** — nothing
+  confidential, nothing belonging to your school or employer, and nothing
+  copied from a textbook or a real exam paper.
+
+We are under no obligation to act on feedback, to reply, or to tell you what we
+did with it. In practice we usually will.
+
 ## 3. What Bud Years is, and what it is not
 
 Bud Years provides practice questions, worked explanations, and a daily study
@@ -106,6 +126,21 @@ principally at systems that generate content while you interact with them, and
 at large providers. This notice is intended to satisfy the spirit of those
 rules regardless.
 
+## 3B. Using Bud Years honestly
+
+Bud Years is for study. It is not for use during an examination, a test, or any
+assessment where materials are not permitted.
+
+You are responsible for knowing and following the rules of your school, your
+examination board, and any honour code you are subject to. Nothing in this app
+grants you permission to do anything those rules forbid, and we take no
+position on what they allow — that is between you and them.
+
+The app marks nothing itself. It shows you a question, you decide whether you
+knew the answer, and you record that. **Marking yourself generously does not
+help you**; it moves your position through the material without moving what you
+know, which is the one thing the app cannot do for you.
+
 ## 4. Trademarks and independence
 
 `[LEGAL NAME]` is **not affiliated with, endorsed by, sponsored by, or
@@ -117,6 +152,19 @@ SAT®, PSAT/NMSQT®, ACT®, AP®, GRE®, GMAT®, TOEFL® and other names used in
 app are trademarks or registered trademarks of their respective owners, used
 only to describe the exams the material prepares you for. No claim is made to
 any of them.
+
+## 4A. If you believe our content infringes your rights
+
+Every question, explanation, and vocabulary entry in Bud Years is written for
+it. We do not host anything uploaded by users, and we do not reproduce
+published exam papers.
+
+If you nevertheless believe something in the app infringes your copyright or
+other rights, write to `[SUPPORT EMAIL]` with enough detail to find it — the
+course, the subject, and the text or serial number of the item — and what right
+you say it infringes. We will look at it promptly and remove or rewrite
+anything we cannot stand behind. We would rather correct a genuine problem than
+argue about one.
 
 ## 5. Enrolment, purchases, and refunds
 
@@ -393,9 +441,29 @@ after a change means you accept the updated terms.
 
 ## 16. General
 
-If any provision is found unenforceable, the rest remains in force. Our
-failure to enforce a provision is not a waiver of it. These terms, together
-with the Privacy Policy, are the entire agreement between us about the app.
+**How we reach you.** Bud Years has no accounts and we hold no email address for
+you, so we cannot write to you. Anything we need to tell you appears **in the
+app** — in the release notes, or on the screen it concerns. That is a
+consequence of collecting nothing about you, and it is the trade we chose.
+
+**What survives.** If these terms end, for any reason, sections 2A, 3, 3A, 3B,
+4, 9, 10, 11, 13, 14 and 16 continue to apply.
+
+**Accessibility.** We want the app to be usable by as many students as
+possible, and it is built to respect the text size, contrast, and reduced-motion
+settings your device already carries. If something is unusable for you, tell us
+at `[SUPPORT EMAIL]` and we will treat it as a fault rather than a request.
+
+**Things outside our control.** We are not responsible for failures caused by
+events beyond our reasonable control, including network and platform outages,
+app store decisions, and acts of government.
+
+**The rest.** If any provision is found unenforceable, the rest remains in
+force, and that provision is applied to the smallest extent necessary to make
+it enforceable. Our failure to enforce a provision is not a waiver of it. You
+may not transfer these terms to anyone else; we may transfer them if the app
+changes hands. These terms, together with the Privacy Policy, are the entire
+agreement between us about the app.
 
 ## 17. Contact
 
