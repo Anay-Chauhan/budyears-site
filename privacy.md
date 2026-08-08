@@ -129,7 +129,14 @@ offer it because being entitled to something is not the same as taking it, and
 because a switch you can find is worth more than a paragraph promising
 restraint.
 
-If you do switch it off, a crash that only affects you may never be found.
+If you do switch it off, a crash that only affects you may never be found —
+unless you tell us otherwise after the fact. With reporting off, Crashlytics
+still writes a report on your device when the app stops unexpectedly; it just
+does not send it. So the next time you open the app we will say what happened
+and ask whether that one report may be sent. Answering does not change your
+setting: say yes and only that report goes, say no and it is deleted from your
+device. We ask once per version of the app, and if you say no, later reports
+from the same version are deleted without asking again.
 
 It is **not** governed by the age question in section 3.3, and we would rather
 say so than let you assume otherwise. A crash report describes what broke, not
