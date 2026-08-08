@@ -137,14 +137,29 @@ the same installation can be counted as one returning user rather than two new
 ones. It is not linked to your identity, and it is reset if you delete and
 reinstall the app.
 
-**Your choice**
+**Nothing is collected until you tell us your age**
 
-- **In the UK and the EU/EEA**, analytics is **off until you turn it on**. We
-  ask once, in plain language, and “no” is remembered. Saying no does not limit
-  the app in any way — every feature works identically.
-- **Elsewhere**, analytics is on by default and can be switched off at any time
-  from **Settings → Usage analytics**.
-- Turning it off stops collection from that moment.
+Analytics does not start with the app. It is switched off in the app's own
+build configuration, so the very first session is silent, and it stays off
+until two things are true.
+
+- **We know you are 13 or over.** At the end of the introduction we ask what
+  year you were born. We do not keep the year — only whether it puts you at 13
+  or over. **Skip the question and no statistics are collected, ever.** The app
+  works identically either way, and **Settings → Usage analytics** will say so
+  rather than pretending the switch does anything.
+- **And, in the UK and the EU/EEA, that you have said yes.** We ask once, in
+  plain language, and “no” is remembered. Saying no does not limit the app in
+  any way.
+
+Elsewhere, once an age of 13 or over is established, analytics runs and can be
+switched off at any time from **Settings → Usage analytics**. Turning it off
+stops collection from that moment.
+
+If you were already using Bud Years before this changed, you were never asked —
+so as far as the app is concerned your age is unknown, and analytics is off
+until you answer. You can answer at any time from **Settings → Replay the
+intro**.
 
 **Legal basis (UK/EU GDPR):** your consent. You may withdraw it at any time,
 and withdrawing is as easy as giving it.
