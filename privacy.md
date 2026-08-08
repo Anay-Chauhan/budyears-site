@@ -155,6 +155,13 @@ aggregate. This is how we learn which subjects students actually study, when
 they study, whether the daily reminder helps, and how far people get — the
 questions that tell us what to build next.
 
+We also publish totals drawn from the same figures when describing the app —
+how many students use it, how many words have been worked through. Those are
+population counts: they say nothing about you, they are never sold or handed
+to anyone for their own use, and we do not publish a figure small enough to
+point at one person. Anything drawn from a group too small to hide in is not
+published at all.
+
 **What is recorded**
 
 - That the app was opened, and roughly when (morning, afternoon, evening,

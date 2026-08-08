@@ -281,6 +281,14 @@ Refusing or disabling either does not limit the app in any way: every feature
 works identically, and we will not ask repeatedly or make the app harder to use
 to change your mind.
 
+**We may publish totals drawn from these statistics** — how many students use
+Bud Years, how many words or problems have been worked through, how many
+courses people study at once — to improve the app and to describe or promote
+it. Those are population figures and nothing else. **Nothing about any one
+person is ever published, sold, or used in a way that could identify them**,
+and we do not publish a figure small enough to point at an individual. Where
+you have not allowed statistics, nothing of yours is in the total at all.
+
 ## 7. Availability, changes, and content
 
 We may change, suspend, or discontinue the app or any part of its content at
