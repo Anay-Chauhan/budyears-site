@@ -124,18 +124,66 @@ Enrolling in a course is free and simply adds it to your study plan.
 
 `[REMOVE THE REST OF THIS SECTION UNTIL PAID CONTENT IS ACTUALLY OFFERED.]`
 
-Some course categories may require a one-time purchase. Where that applies:
+### Every paid course has a free preview, and you decide after seeing it
 
-- Prices are shown by, and payment is taken by, Apple or Google. We never
-  receive your payment details.
+Where a category requires a purchase, **the first 250 problems of every subject
+in it are free**. That is not a trailer or a sample chapter — it is the same
+material, in the same order, that a paying student works through, and for most
+people it is several weeks of study.
+
+**By buying, you confirm that the preview was available to you and that you are
+satisfied the course suits you.** That is what the preview is for: judging the
+material before you pay for it rather than after. We would much rather you
+studied the free part for a fortnight and decided against buying than bought on
+the strength of a description.
+
+**This does not take away your rights if something is wrong.** If a course is
+faulty, is not what we described, or is materially not what the preview showed,
+your statutory rights apply whatever you agreed at the moment of purchase. The
+preview clause is about changing your mind, not about defective goods. See
+section 10.
+
+### Refunds are the store's to give, not ours
+
+Prices are shown by, and payment is taken by, Apple or Google. We never receive
+your payment details, and in most territories the store — not us — is the
+merchant of record.
+
+- **Google Play.** You can request a refund through Google Play within
+  **48 hours** of purchase, and an app purchase can often be refunded instantly
+  within the first **2 hours** from the Play Store itself. After 48 hours,
+  Google will point you back to us.
+- **Apple.** Apple handles every App Store refund itself, at its discretion,
+  through reportaproblem.apple.com. **There is no fixed window**, and **we have
+  no ability to issue an App Store refund** — not as a policy choice, but
+  because Apple does not give developers that mechanism.
+
+**We therefore do not offer a refund window of our own, because on Apple's
+platform we could not honour one.** Promising three days and then being unable
+to deliver it would be worse than saying nothing.
+
+What we will do instead: if you bought within the last 14 days, the course was
+materially not what the preview showed, and the store has declined you, write
+to `[SUPPORT EMAIL]` with your receipt. We will put the case to the store
+ourselves. We cannot promise the outcome, because it is not ours to decide.
+
+### Statutory cancellation rights
+
+If you are a consumer in the UK, the EU/EEA, or anywhere else with a legal
+right to cancel a digital purchase within a cooling-off period, **you keep that
+right and nothing here removes it.** In the UK and EU that right normally lasts
+14 days, and is lost for digital content only once delivery has begun with your
+express consent and your acknowledgement that you lose it. The store collects
+that consent at the point of purchase, so exercise the right through the store.
+
+### Other purchase terms
+
 - A purchase unlocks the stated content on accounts and devices permitted by
-  the store's own rules. Use the store's “Restore Purchases” mechanism to
+  the store's own rules. Use the store's "Restore Purchases" mechanism to
   recover a purchase on a new device.
-- **Refunds are handled solely by the store you purchased from**, under their
-  policies. We cannot issue refunds for store transactions.
 - Purchases are one-time and do not renew automatically.
-- Content included in a purchased category may be added to over time. We do
-  not promise any particular quantity of future content.
+- Content in a purchased category may be added to over time. We do not promise
+  any particular quantity of future content, and section 7 applies.
 
 ## 6. Usage analytics
 
