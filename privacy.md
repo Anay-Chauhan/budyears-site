@@ -183,45 +183,59 @@ policies.
 
 ## 6. Students, children, and age
 
-Bud Years is rated **4+** and carries material for competitions that primary
-and middle school students enter — Math and Science Olympiad participants are
-often nine or ten years old. We therefore expect a meaningful number of users
-to be **under 13**, and we do not pretend otherwise.
+**Bud Years is for students aged 13 and over**, from around 8th grade upward.
+It is not directed to children under 13, we do not knowingly collect
+information from anyone under 13, and it is rated accordingly on both stores.
 
-Under the US Children's Online Privacy Protection Act (COPPA), that makes Bud
-Years a **mixed-audience service**: not aimed exclusively at young children,
-but knowingly used by some. We treat every user as though they might be a
-child.
+If you believe a child under 13 has used the app in a way that sent us
+anything, write to `[PRIVACY CONTACT EMAIL]` and we will delete whatever we
+can identify.
 
-**What that means in practice**
+That said, the honest position is that **there is very little to collect from
+anyone, of any age**:
 
-- There is **no account, no sign-in, no profile, no messaging, no user-generated
-  content, no photo or contact access, and no social feature of any kind**. We
-  do not collect personal information from anyone, of any age, so there is
-  none to collect from a child.
+- There is **no account, no sign-in, no profile, no messaging, no
+  user-generated content, no photo or contact access, and no social feature of
+  any kind**. We do not ask any user for personal information.
 - There is **no advertising**, and **no advertising identifier is collected on
   any platform**. We do not build advertising profiles and we do not share data
   with ad networks or data brokers.
 - The only persistent identifiers involved are the random installation
   identifiers used by crash reporting (section 3.2) and usage analytics
-  (section 3.3). Under COPPA these are used **solely to support the internal
-  operations** of the app — keeping it working, diagnosing faults, and
-  understanding in aggregate how it is used so we can improve it. They are not
-  used to contact, profile, advertise to, or track any child, and they are not
-  disclosed to third parties for any other purpose.
-- Bud Years is **not** submitted to Apple's Kids Category or Google Play's
-  Designed for Families programme. It is general study material that children
-  also use, and we do not present it as a children's product.
+  (section 3.3). They exist to keep the app working and to count usage in
+  aggregate. They are not used to contact, profile, advertise to, or track
+  anyone, and they are not disclosed for any other purpose.
 
-**For parents and guardians**
+**If you are under 18**
 
-You do not need to create anything or consent to anything for your child to
-use Bud Years, because there is nothing about them for us to hold. If you would
-prefer no usage statistics at all, switch them off at
-**Settings → Usage analytics**; the app works identically either way.
+Most of our users are. Several countries treat everyone under 18 as a child
+for data protection purposes, so:
 
-If you believe we hold personal information about a child, write to
-`[PRIVACY CONTACT EMAIL]` and we will delete it.
+- read this policy and the Terms of Use with a parent or guardian, and ask
+  them to agree on your behalf;
+- if you would rather send nothing at all, switch usage statistics off at
+  **Settings → Usage analytics**. The app works identically either way, and no
+  feature is withheld for saying no.
+
+A parent or guardian may write to `[PRIVACY CONTACT EMAIL]` at any time to ask
+what we hold and to have it deleted.
+
+**India**
+
+India's Digital Personal Data Protection Act, 2023 defines a child as anyone
+**under 18** — not under 13 — and requires verifiable parental consent before a
+child's personal data is processed. It also prohibits tracking and behavioural
+monitoring of children.
+
+Because most of our Indian users are under 18 by that definition, **usage
+analytics are switched off by default in India** and stay off unless a parent
+or guardian turns them on. Crash reports contain no personal data and no
+behavioural information.
+
+`[DEVELOPER: this paragraph describes behaviour the code must actually have.
+India currently sits in the opt-out regime in analytics_consent.dart, meaning
+analytics default ON. Either move India to ask-first, or do not publish this
+paragraph.]`
 
 **A note for the UK**
 

@@ -33,11 +33,13 @@ You may use the app if you are old enough to form a binding contract where you
 live, or if a parent or guardian who is old enough agrees to these terms on
 your behalf and supervises your use.
 
-Bud Years is rated **4+** and includes material for competitions that younger
-students enter, so we expect some users to be children. If you are under 18,
-please read these terms with a parent, guardian, or teacher. If you are under
-`[13 / 16 — SET PER JURISDICTION]`, a parent or guardian must agree on your
-behalf.
+**Bud Years is intended for students aged 13 and over**, from around 8th grade
+upward. Please do not use it if you are under 13.
+
+If you are under 18, read these terms with a parent or guardian and ask them to
+agree on your behalf. In most countries a person under 18 cannot form a binding
+contract alone, so without that agreement this licence has not been granted. A
+parent or guardian who lets a minor use the app accepts these terms for them.
 
 Nothing in the app requires an account, and we do not ask any user for personal
 information at any age.
@@ -161,7 +163,19 @@ To the fullest extent permitted by law:
 **Nothing in these terms excludes or limits liability that cannot lawfully be
 excluded or limited.** Depending on where you live, that will include
 liability for death or personal injury caused by negligence, for fraud or
-fraudulent misrepresentation, and your non-excludable rights as a consumer.
+fraudulent misrepresentation, and your non-excludable rights as a consumer. In
+particular:
+
+- **Australia.** Our services come with guarantees that cannot be excluded
+  under the Australian Consumer Law. Nothing in sections 9 or 10 limits them.
+  Where our liability may be limited rather than excluded, it is limited, at
+  our option, to resupplying the services or paying the cost of doing so.
+- **Singapore.** Nothing here excludes liability that cannot be excluded under
+  the Unfair Contract Terms Act 1977.
+- **India.** Nothing here affects your rights under the Consumer Protection
+  Act, 2019, including your right to approach a consumer commission.
+- **United Kingdom, EU and EEA.** Nothing here affects your non-excludable
+  statutory rights as a consumer.
 Some jurisdictions do not allow the exclusion of implied warranties or the
 limitation of incidental or consequential damages, so parts of sections 9 and
 10 may not apply to you.
@@ -212,9 +226,46 @@ If you are a consumer resident in the UK, the EEA, or another jurisdiction
 whose law grants you the right to bring proceedings locally or to rely on
 mandatory consumer protections, nothing here removes that right.
 
-`[CONSIDER: an arbitration and class-action waiver clause for US users. This
-is a significant decision with real trade-offs and should be taken with legal
-advice, not added by default.]`
+### Talk to us first
+
+Whatever the problem, write to `[CONTACT EMAIL]` describing it and what you
+would like done. Neither of us may start a formal proceeding until 30 days
+after that notice. Most things can be settled this way and we would like the
+chance.
+
+### If you are in the United States
+
+**Arbitration.** If we cannot resolve it, you and we agree that any dispute
+arising out of or relating to these terms or the app will be resolved by
+**binding individual arbitration** administered by the American Arbitration
+Association under its Consumer Arbitration Rules, rather than in court. The
+Federal Arbitration Act governs this section, and judgment on the award may be
+entered in any court with jurisdiction.
+
+**Individual claims only.** Each of us may bring claims only in an individual
+capacity, and not as a plaintiff or class member in any class, collective, or
+representative proceeding. An arbitrator may not consolidate claims or preside
+over any representative proceeding.
+
+**Small claims.** Either of us may instead bring an individual claim in small
+claims court in `[COUNTY, STATE]`, if it qualifies.
+
+**You can opt out.** You may reject this arbitration section by emailing
+`[CONTACT EMAIL]` with the subject line "Arbitration Opt-Out" within **30
+days** of first using the app, giving your device platform and the date.
+Opting out costs nothing, changes nothing else in these terms, and does not
+affect your use of the app.
+
+**Severability.** If the individual-claims requirement is held unenforceable
+as to any claim, that claim is severed from arbitration and heard in court;
+the rest of this section survives.
+
+### If you are outside the United States
+
+The arbitration section above does not apply to you. **Nothing in these terms
+requires you to arbitrate, or prevents you from bringing proceedings in the
+courts of the country where you live**, including any consumer forum available
+to you.
 
 ## 15. Changes to these terms
 
