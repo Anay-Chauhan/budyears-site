@@ -32,9 +32,11 @@ the app downloads its questions from our content server; in released versions
 it sends a report if it crashes; and it can send anonymous usage statistics so
 we can see how the app is being used and make it better.
 
-The usage statistics are **optional in the UK and the EU/EEA**, where we ask
-before switching them on, and can be turned off anywhere from
-**Settings → Usage analytics**.
+The usage statistics are **off unless you turn them on or tell us you are 13
+or over**, and can be switched off again at any time from **Settings → Usage
+analytics**. Nothing in the app depends on them: every feature works
+identically either way, so if you would rather send nothing, that is a
+complete answer.
 
 ---
 
@@ -57,6 +59,8 @@ transmitted anywhere:
 - Your notification preference and the local schedule for the daily reminder
 - Your time zone, read from the operating system so the reminder fires at 6 PM
   where you actually are
+- Whether you have told us you are 13 or over. The **answer**, not the year of
+  birth you gave to reach it, and not a date. See section 3.3
 
 If you delete the app, all of it is deleted with it. There is no copy on a
 server, so there is nothing for us to restore, export, or hand to anyone else.
@@ -98,6 +102,13 @@ installation and is reset if you delete and reinstall the app.
 Crash reporting is **disabled in development builds** and active only in
 released versions.
 
+It is **not** governed by the age question in section 3.3, and we would rather
+say so than let you assume otherwise. A crash report describes what broke, not
+who was using the app when it broke, and it is often the only way we learn the
+app has stopped working for someone. The installation identifier in it exists
+to keep the app working and for nothing else — it is not used to contact,
+profile, advertise to, or track anyone, at any age.
+
 **Legal basis (UK/EU GDPR):** our legitimate interest in diagnosing faults so
 the app works for the students using it.
 
@@ -131,35 +142,41 @@ questions that tell us what to build next.
   advertise, and we do not track you across other companies' apps or websites
 - Your precise location. Country is inferred from the IP address of the
   request, which is then discarded
+- Your age, or the year of birth you gave. The answer decides whether anything
+  is sent at all; it is not itself sent
 
 Firebase assigns a random **app instance identifier** so that two opens from
 the same installation can be counted as one returning user rather than two new
 ones. It is not linked to your identity, and it is reset if you delete and
 reinstall the app.
 
-**Nothing is collected until you tell us your age**
+**It is optional, and turning it off costs you nothing**
 
-Analytics does not start with the app. It is switched off in the app's own
-build configuration, so the very first session is silent, and it stays off
-until two things are true.
+No feature depends on it. Every question, every figure and every screen works
+identically whether statistics are on or off, we will not ask again if you
+decline, and we will not make the app harder to use to change your mind. If
+you would rather send nothing at all, that is a complete answer.
 
-- **We know you are 13 or over.** At the end of the introduction we ask what
-  year you were born. We do not keep the year — only whether it puts you at 13
-  or over. **Skip the question and no statistics are collected, ever.** The app
-  works identically either way, and **Settings → Usage analytics** will say so
-  rather than pretending the switch does anything.
-- **And, in the UK and the EU/EEA, that you have said yes.** We ask once, in
-  plain language, and “no” is remembered. Saying no does not limit the app in
-  any way.
+**When it runs**
 
-Elsewhere, once an age of 13 or over is established, analytics runs and can be
-switched off at any time from **Settings → Usage analytics**. Turning it off
+Statistics are switched off in the app's own build configuration rather than
+only in its code, so the first session is silent. They stay off until:
+
+- **you have told us you are 13 or over.** At the end of the introduction we
+  ask what year you were born. We do not keep the year — only whether it puts
+  you at 13 or over, and that answer stays on your device. Skip the question
+  and no statistics are collected at all; **Settings → Usage analytics** will
+  say so rather than offering a switch that does nothing;
+- **and, in the UK and the EU/EEA, you have said yes.** We ask once, in plain
+  language, and “no” is remembered.
+
+Everywhere else, once an age of 13 or over has been given, statistics run and
+can be switched off at any time from **Settings → Usage analytics**, which
 stops collection from that moment.
 
-If you were already using Bud Years before this changed, you were never asked —
-so as far as the app is concerned your age is unknown, and analytics is off
-until you answer. You can answer at any time from **Settings → Replay the
-intro**.
+If you were using Bud Years before this changed, you were never asked — so
+your age is unknown to the app and statistics are off until you answer.
+**Settings → Replay the intro** puts the question back in front of you.
 
 **Legal basis (UK/EU GDPR):** your consent. You may withdraw it at any time,
 and withdrawing is as easy as giving it.
@@ -214,8 +231,22 @@ policies.
 ## 6. Students, children, and age
 
 **Bud Years is for students aged 13 and over**, from around 8th grade upward.
-It is not directed to children under 13, we do not knowingly collect
-information from anyone under 13, and it is rated accordingly on both stores.
+It is not directed to children under 13 and is rated accordingly on both
+stores.
+
+**If someone younger uses it anyway.** We would rather find out than not, so
+the app asks — at the end of the introduction — what year you were born. If
+the answer puts you under 13, usage statistics are switched off and there is
+nothing to switch back on. We do not keep the year, and we do not lock a
+younger student out of the questions: this is a study app, and the safe
+response to a young user is to collect less from them, not to refuse to teach
+them. Skipping the question produces the same outcome.
+
+This replaces a promise we used to make here — that we do not *knowingly*
+collect from anyone under 13. Asking means we may now know, which is the
+point: a service that avoids asking in order to keep saying it does not know
+has arranged its own ignorance. The commitment is the stronger one, that
+knowing changes what we do.
 
 If you believe a child under 13 has used the app in a way that sent us
 anything, write to `[PRIVACY CONTACT EMAIL]` and we will delete whatever we
@@ -232,9 +263,11 @@ anyone, of any age**:
   with ad networks or data brokers.
 - The only persistent identifiers involved are the random installation
   identifiers used by crash reporting (section 3.2) and usage analytics
-  (section 3.3). They exist to keep the app working and to count usage in
-  aggregate. They are not used to contact, profile, advertise to, or track
-  anyone, and they are not disclosed for any other purpose.
+  (section 3.3). The analytics one exists only where statistics are running at
+  all, so for a user under 13 there is none. Both exist to keep the app working
+  and to count usage in aggregate. They are not used to contact, profile,
+  advertise to, or track anyone, and they are not disclosed for any other
+  purpose.
 
 **If you are under 18**
 
@@ -243,9 +276,10 @@ for data protection purposes, so:
 
 - read this policy and the Terms of Use with a parent or guardian, and ask
   them to agree on your behalf;
-- if you would rather send nothing at all, switch usage statistics off at
-  **Settings → Usage analytics**. The app works identically either way, and no
-  feature is withheld for saying no.
+- if you would rather send nothing at all, either skip the year-of-birth
+  question or switch usage statistics off at **Settings → Usage analytics**.
+  The app works identically either way, and no feature is withheld for saying
+  no.
 
 A parent or guardian may write to `[PRIVACY CONTACT EMAIL]` at any time to ask
 what we hold and to have it deleted.
@@ -262,9 +296,12 @@ analytics are switched off by default in India** and stay off unless a parent
 or guardian turns them on. Crash reports contain no personal data and no
 behavioural information.
 
-`[DEVELOPER: this paragraph describes behaviour the code must actually have.
-India currently sits in the opt-out regime in analytics_consent.dart, meaning
-analytics default ON. Either move India to ask-first, or do not publish this
+`[DEVELOPER: this paragraph still describes behaviour the code does not have.
+The age gate narrowed the gap but did not close it: statistics are now off
+until a student gives an age, so the claim holds for anyone who skips the
+question — but an Indian student who answers with a year putting them at 13 or
+over falls into the opt-out regime in analytics_consent.dart and statistics
+start. Add a third regime that keeps them off, or do not publish this
 paragraph.]`
 
 **Canada**

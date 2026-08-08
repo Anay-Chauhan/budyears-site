@@ -36,6 +36,12 @@ your behalf and supervises your use.
 **Bud Years is intended for students aged 13 and over**, from around 8th grade
 upward. Please do not use it if you are under 13.
 
+The app asks, once, what year you were born. It does this to decide whether to
+count anonymous usage statistics, and for no other reason: the answer is not
+kept, no feature depends on it, and a younger student is not shut out of the
+questions. If the answer puts you under 13, the app simply collects nothing.
+The Privacy Policy sets this out in full at section 3.3.
+
 If you are under 18, read these terms with a parent or guardian and ask them to
 agree on your behalf. In most countries a person under 18 cannot form a binding
 contract alone, so without that agreement this licence has not been granted. A
@@ -257,11 +263,15 @@ The app can send anonymous statistics about how it is used — how often it is
 opened, which subjects are studied, how far people get. These are described in
 full in the Privacy Policy.
 
-**They are optional.** In the UK and the EU/EEA we ask before switching them
-on and they stay off until you agree. Everywhere else they can be switched off
-at **Settings → Usage analytics**. Refusing or disabling them does not limit
-the app: every feature works identically either way, and we will not ask
-repeatedly or make the app harder to use to change your mind.
+**They are off unless you enable them.** Statistics do not run at all until
+you have told the app you are 13 or over, and in the UK and the EU/EEA not
+until you have also agreed. Skip the year-of-birth question and nothing is
+collected. Everywhere else, once an age has been given, they can be switched
+off at **Settings → Usage analytics**.
+
+Refusing or disabling them does not limit the app in any way: every feature
+works identically either way, and we will not ask repeatedly or make the app
+harder to use to change your mind.
 
 ## 7. Availability, changes, and content
 
