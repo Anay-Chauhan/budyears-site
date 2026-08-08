@@ -263,15 +263,23 @@ The app can send anonymous statistics about how it is used — how often it is
 opened, which subjects are studied, how far people get. These are described in
 full in the Privacy Policy.
 
-**They are off unless you enable them.** Statistics do not run at all until
-you have told the app you are 13 or over, and in the UK and the EU/EEA not
-until you have also agreed. Skip the year-of-birth question and nothing is
-collected. Everywhere else, once an age has been given, they can be switched
-off at **Settings → Usage analytics**.
+**They are off unless you enable them.** Statistics do not run at all until you
+have told the app you are old enough, and in the UK and the EU/EEA not until
+you have also agreed. In India and Canada the test is stricter again: your
+answer and your device's operating system must both say you are 18 or over, and
+you must then agree. Skip the year-of-birth question and nothing is collected
+anywhere.
 
-Refusing or disabling them does not limit the app in any way: every feature
-works identically either way, and we will not ask repeatedly or make the app
-harder to use to change your mind.
+Once an age has been given, statistics can be switched off at any time at
+**Settings → Usage analytics**.
+
+The app also sends a report when it crashes, so that faults can be found and
+fixed. That is separate, it carries nothing about you or what you were
+studying, and you may switch it off at **Settings → Crash reports**.
+
+Refusing or disabling either does not limit the app in any way: every feature
+works identically, and we will not ask repeatedly or make the app harder to use
+to change your mind.
 
 ## 7. Availability, changes, and content
 

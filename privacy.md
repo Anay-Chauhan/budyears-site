@@ -30,7 +30,8 @@ other apps or websites.
 Three things do leave your device, and all three are described in full below:
 the app downloads its questions from our content server; in released versions
 it sends a report if it crashes; and it can send anonymous usage statistics so
-we can see how the app is being used and make it better.
+we can see how the app is being used and make it better. **Both of the last two
+can be switched off** at **Settings**.
 
 The usage statistics are **off unless you turn them on or tell us you are 13
 or over**, and can be switched off again at any time from **Settings → Usage
@@ -112,8 +113,23 @@ We never attach your name, email, or any account identifier to a crash report,
 because the app has none to attach. The identifier is specific to your
 installation and is reset if you delete and reinstall the app.
 
+Crashlytics also records that a session happened without crashing. It has to:
+“this fault affects 2% of students” is a fraction, and a fraction needs a
+denominator. So a small amount of information travels on ordinary launches and
+not only on the bad ones, and we would rather say so than let the paragraph
+above imply otherwise.
+
 Crash reporting is **disabled in development builds** and active only in
 released versions.
+
+**You can switch it off** at **Settings → Crash reports**. Nothing obliges us
+to offer that — crash reports exist to keep the app working, which is a purpose
+both the US children's privacy rules and UK/EU law permit without asking. We
+offer it because being entitled to something is not the same as taking it, and
+because a switch you can find is worth more than a paragraph promising
+restraint.
+
+If you do switch it off, a crash that only affects you may never be found.
 
 It is **not** governed by the age question in section 3.3, and we would rather
 say so than let you assume otherwise. A crash report describes what broke, not
@@ -175,8 +191,10 @@ you would rather send nothing at all, that is a complete answer.
 Statistics are switched off in the app's own build configuration rather than
 only in its code, so the first session is silent. They stay off until:
 
-- **you have told us you are 13 or over.** At the end of the introduction we
-  ask what year you were born. We do not keep the year — only whether it puts
+- **you have told us you are old enough.** At the end of the introduction we
+  ask what year you were born. Thirteen is the line in most of the world; in
+  India and Canada it is eighteen, and two further conditions apply — see
+  section 6. We do not keep the year — only whether it puts
   you at 13 or over, and that answer stays on your device. Skip the question
   and no statistics are collected at all; **Settings → Usage analytics** will
   say so rather than offering a switch that does nothing;
@@ -311,18 +329,25 @@ India's Digital Personal Data Protection Act, 2023 defines a child as anyone
 child's personal data is processed. It also prohibits tracking and behavioural
 monitoring of children.
 
-Because most of our Indian users are under 18 by that definition, **usage
-analytics are switched off by default in India** and stay off unless a parent
-or guardian turns them on. Crash reports contain no personal data and no
-behavioural information.
+So in India **usage analytics are off, and three separate things have to be
+true before they are not**: your own answer to the year-of-birth question puts
+you at 18 or over; your device's operating system independently reports that
+you are 18 or over; and you have then agreed. Any one of the three missing, or
+the first two disagreeing, and nothing is collected.
 
-`[DEVELOPER: this paragraph still describes behaviour the code does not have.
-The age gate narrowed the gap but did not close it: statistics are now off
-until a student gives an age, so the claim holds for anyone who skips the
-question — but an Indian student who answers with a year putting them at 13 or
-over falls into the opt-out regime in analytics_consent.dart and statistics
-start. Add a third regime that keeps them off, or do not publish this
-paragraph.]`
+We ask the operating system separately rather than trusting our own question
+twice. Apple and Google can report an age range set on a parent-managed
+account, which is different evidence from an answer typed by whoever is holding
+the phone, and we require both.
+
+**In practice this means nothing is collected in India today**, because those
+operating-system age APIs are not yet connected — Apple's needs an entitlement
+we have not applied for and Google's is still rolling out. We would rather say
+that than imply a working mechanism.
+
+Crash reports are separate and are described in section 3.2. They carry no
+personal data and no behavioural information, they are sent only to find out
+what broke, and they can be switched off at **Settings → Crash reports**.
 
 **Canada**
 
@@ -331,14 +356,25 @@ of personal information in the private sector* as amended by Law 25, apply to
 what little we collect.
 
 Quebec's Law 25 requires that any technology used to profile, locate, or
-identify a person be **switched off by default**. Usage analytics are therefore
-**off by default in Quebec**, as they are in the UK and EU/EEA, and stay off
-unless you turn them on. Crash reports contain no profiling information.
+identify a person be **switched off by default**, and that consent for a minor
+come from a parent.
 
-`[DEVELOPER: Quebec is not distinguishable from the rest of Canada by country
-code alone. Either treat all of CA as ask-first, or read the locale's language
-and region together. Do not publish this paragraph until the code does one of
-them.]`
+**We apply the same rule to the whole of Canada, and we apply it at 18.** Two
+deliberate choices, both stricter than required. Quebec cannot be told apart
+from the rest of Canada by the country setting on a device, and the
+alternatives are guesses based on your language that would be wrong for
+anglophone Quebecers and for francophones elsewhere — so we cover everyone.
+And Quebec's own line is 14, not 18; we use 18 because it is the more
+protective number and because it matches India, rather than running two
+different rules for the same idea.
+
+So the test is the same as India's: your answer, your operating system's
+answer, and your agreement — all three, or nothing is collected. It costs us
+the statistics of every Canadian student under 18, which we think is the right
+way round.
+
+Crash reports contain no profiling information, and can be switched off at
+**Settings → Crash reports**.
 
 `[DEVELOPER: Law 25 requires a named person responsible for privacy protection,
 whose title and contact must be published. Add them, or delete this sentence.]`
