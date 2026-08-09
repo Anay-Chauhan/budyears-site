@@ -62,6 +62,9 @@ transmitted anywhere:
   where you actually are
 - Whether you have told us you are 13 or over. The **answer**, not the year of
   birth you gave to reach it, and not a date. See section 3.3
+- The date you tell us you are sitting a test, if you tell us. It is there to
+  count down and nothing else — it does not change what the app gives you to
+  study, and we never see it
 - If that answer was “under 13”, the year we should ask again — which is the
   year you turn 14. It is your birth year plus fourteen, so anyone who read it
   could work the birth year out; we keep it because it is the date the answer
