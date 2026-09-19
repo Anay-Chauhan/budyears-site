@@ -8,17 +8,16 @@ permalink: /terms
 # Terms of Use
 
 **DRAFT — not legal advice. Review with a qualified lawyer before publishing.**
-Every `[SQUARE BRACKET]` below must be filled in or removed.
 
-**Effective date:** `[DATE]`
-**Provided by:** `[LEGAL NAME]`, `[ADDRESS]`
-**Contact:** `[SUPPORT EMAIL]`
+**Effective date:** September 19, 2026
+**Provided by:** Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
+**Contact:** info@kalikalyceum.com
 
 ---
 
 ## Read this first
 
-This is an agreement between you and `[LEGAL NAME]` covering your use of the
+This is an agreement between you and Kalika Lyceum LLC covering your use of the
 Bud Years app. By downloading, installing, or using the app, you accept it. If
 you do not accept it, do not use the app.
 
@@ -136,7 +135,7 @@ Two things follow, and both matter more than the label:
 - **AI-assisted drafting does not make content correct, and human checking does
   not make it perfect.** Section 3 already says we do not warrant accuracy.
   That applies to every question regardless of how it was written. If something
-  looks wrong, it may be wrong — tell us at `[SUPPORT EMAIL]`.
+  looks wrong, it may be wrong — tell us at info@kalikalyceum.com.
 - **The app does not run AI.** There is no chatbot, no generated response, and
   nothing produced while you use it. Every question you see was written,
   checked, and published before you opened the app. Nothing you type or mark is
@@ -167,7 +166,7 @@ know, which is the one thing the app cannot do for you.
 
 ## 4. Trademarks and independence
 
-`[LEGAL NAME]` is **not affiliated with, endorsed by, sponsored by, or
+Kalika Lyceum LLC is **not affiliated with, endorsed by, sponsored by, or
 connected to** the College Board, ACT Inc., Educational Testing Service, the
 Graduate Management Admission Council, or any other examining or awarding
 body.
@@ -184,7 +183,7 @@ it. We do not host anything uploaded by users, and we do not reproduce
 published exam papers.
 
 If you nevertheless believe something in the app infringes your copyright or
-other rights, write to `[SUPPORT EMAIL]` with enough detail to find it — the
+other rights, write to info@kalikalyceum.com with enough detail to find it — the
 course, the subject, and the text or serial number of the item — and what right
 you say it infringes. We will look at it promptly and remove or rewrite
 anything we cannot stand behind. We would rather correct a genuine problem than
@@ -193,8 +192,6 @@ argue about one.
 ## 5. Enrolment, purchases, and refunds
 
 Enrolling in a course is free and simply adds it to your study plan.
-
-`[REMOVE THE REST OF THIS SECTION UNTIL PAID CONTENT IS ACTUALLY OFFERED.]`
 
 ### Every paid course has a free preview, and you decide after seeing it
 
@@ -236,7 +233,7 @@ to deliver it would be worse than saying nothing.
 
 What we will do instead: if you bought within the last 14 days, the course was
 materially not what the preview showed, and the store has declined you, write
-to `[SUPPORT EMAIL]` with your receipt. We will put the case to the store
+to info@kalikalyceum.com with your receipt. We will put the case to the store
 ourselves. We cannot promise the outcome, because it is not ours to decide.
 
 ### Statutory cancellation rights
@@ -402,7 +399,7 @@ terminate your licence if you materially breach these terms. Sections 2
 You also agree to the terms of the store you obtained the app from.
 
 **For Apple App Store users:** this agreement is between you and
-`[LEGAL NAME]` only, **not with Apple**. Apple is not responsible for the app
+Kalika Lyceum LLC only, **not with Apple**. Apple is not responsible for the app
 or its content. Apple has no obligation to provide maintenance or support.
 If the app fails to conform to any applicable warranty, you may notify Apple
 and Apple will refund the purchase price, if any; to the maximum extent
@@ -417,15 +414,15 @@ subject to a US Government embargo or designated as terrorist-supporting, and
 that you are not on any US Government list of prohibited or restricted
 parties.
 
-**For Google Play users:** this agreement is between you and `[LEGAL NAME]`
+**For Google Play users:** this agreement is between you and Kalika Lyceum LLC
 only, not with Google, and Google is not responsible for the app or its
 content.
 
 ## 14. Governing law and disputes
 
-These terms are governed by the laws of `[JURISDICTION]`, without regard to
-conflict of laws rules, and the courts of `[JURISDICTION]` have
-`[exclusive / non-exclusive]` jurisdiction.
+These terms are governed by the laws of the State of California, without regard to
+conflict of laws rules, and the courts of the State of California have
+non-exclusive jurisdiction.
 
 If you are a consumer resident in the UK, the EEA, or another jurisdiction
 whose law grants you the right to bring proceedings locally or to rely on
@@ -433,7 +430,7 @@ mandatory consumer protections, nothing here removes that right.
 
 ### Talk to us first
 
-Whatever the problem, write to `[CONTACT EMAIL]` with the subject line
+Whatever the problem, write to info@kalikalyceum.com with the subject line
 "Dispute Notice". Tell us who you are, what happened, and what you would like
 us to do about it — a notice that does not say what you want cannot be settled.
 Neither of us may start a formal proceeding until 30 days after that notice.
@@ -463,7 +460,7 @@ scope and enforceability of this section, including whether a particular
 dispute belongs in arbitration at all.
 
 **Small claims.** Either of us may instead bring an individual claim in small
-claims court in `[COUNTY, STATE]`, if it qualifies.
+claims court in Santa Clara County, California, if it qualifies.
 
 **Claims that stay in court.** Either of us may go straight to court, without
 arbitrating, for a claim about copyright, trade marks, trade secrets, or the
@@ -482,7 +479,7 @@ exceed the value of every claim combined, and a rule that makes the process
 unusable is not a fair process.
 
 **You can opt out of arbitration.** You may reject the arbitration requirement
-by emailing `[CONTACT EMAIL]` with the subject line "Arbitration Opt-Out"
+by emailing info@kalikalyceum.com with the subject line "Arbitration Opt-Out"
 within **30 days** of first using the app, giving your device platform and the
 date. Opting out costs nothing and does not affect your use of the app.
 
@@ -531,7 +528,7 @@ consequence of collecting nothing about you, and it is the trade we chose.
 **Accessibility.** We want the app to be usable by as many students as
 possible, and it is built to respect the text size, contrast, and reduced-motion
 settings your device already carries. If something is unusable for you, tell us
-at `[SUPPORT EMAIL]` and we will treat it as a fault rather than a request.
+at info@kalikalyceum.com and we will treat it as a fault rather than a request.
 
 **Things outside our control.** We are not responsible for failures caused by
 events beyond our reasonable control, including network and platform outages,
@@ -546,5 +543,5 @@ agreement between us about the app.
 
 ## 17. Contact
 
-`[SUPPORT EMAIL]`
-`[LEGAL NAME]`, `[ADDRESS]`
+info@kalikalyceum.com
+Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA

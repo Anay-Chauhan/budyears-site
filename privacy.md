@@ -8,12 +8,11 @@ permalink: /privacy
 # Privacy Policy
 
 **DRAFT — not legal advice. Review with a qualified lawyer before publishing.**
-Every `[SQUARE BRACKET]` below must be filled in or removed.
 
-**Effective date:** `[DATE]`
-**Last updated:** `[DATE]`
-**Provided by:** `[LEGAL NAME]`, `[ADDRESS]`
-**Contact:** `[PRIVACY CONTACT EMAIL]`
+**Effective date:** September 19, 2026
+**Last updated:** September 19, 2026
+**Provided by:** Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
+**Contact:** info@kalikalyceum.com
 
 ---
 
@@ -43,7 +42,7 @@ complete answer.
 
 ## 1. Who we are
 
-Bud Years is provided by `[LEGAL NAME]` (“we”, “us”). For the purposes of the
+Bud Years is provided by Kalika Lyceum LLC (“we”, “us”). For the purposes of the
 UK and EU General Data Protection Regulation, we are the **data controller**
 for the limited information described here.
 
@@ -275,8 +274,6 @@ For privacy, the only points that matter are these:
 
 ## 5. Purchases
 
-`[REMOVE THIS SECTION UNTIL PAID CONTENT IS ACTUALLY OFFERED.]`
-
 If you buy access to a course, the purchase is processed entirely by Apple or
 Google. We never see your card number, billing address, or payment details.
 The app receives only a confirmation that a purchase exists, which it uses to
@@ -304,7 +301,7 @@ has arranged its own ignorance. The commitment is the stronger one, that
 knowing changes what we do.
 
 If you believe a child under 13 has used the app in a way that sent us
-anything, write to `[PRIVACY CONTACT EMAIL]` and we will delete whatever we
+anything, write to info@kalikalyceum.com and we will delete whatever we
 can identify.
 
 That said, the honest position is that **there is very little to collect from
@@ -336,7 +333,7 @@ for data protection purposes, so:
   The app works identically either way, and no feature is withheld for saying
   no.
 
-A parent or guardian may write to `[PRIVACY CONTACT EMAIL]` at any time to ask
+A parent or guardian may write to info@kalikalyceum.com at any time to ask
 what we hold and to have it deleted.
 
 **India**
@@ -393,8 +390,8 @@ way round.
 Crash reports contain no profiling information, and can be switched off at
 **Settings → Crash reports**.
 
-`[DEVELOPER: Law 25 requires a named person responsible for privacy protection,
-whose title and contact must be published. Add them, or delete this sentence.]`
+The person responsible for privacy protection is **Priyanka Chauhan,
+Co-founder**, reachable at info@kalikalyceum.com.
 
 **Mexico**
 
@@ -403,8 +400,8 @@ stating who is responsible, what is collected, why, and how you may exercise
 your ARCO rights — **acceso, rectificación, cancelación y oposición**. This
 document is that notice.
 
-The responsible party is `[LEGAL NAME]`, `[ADDRESS]`. To exercise any ARCO
-right, or to withdraw consent, write to `[PRIVACY CONTACT EMAIL]`. Because we
+The responsible party is Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA. To exercise any ARCO
+right, or to withdraw consent, write to info@kalikalyceum.com. Because we
 hold no information that identifies you, the usual answer will be that there is
 nothing to access, correct, or delete beyond what uninstalling the app removes
 — and we will say so rather than pretend otherwise.
@@ -476,7 +473,7 @@ complaint with a data protection authority.
 
 In practice, for almost everything Bud Years touches, you already hold these
 rights directly: the data is on your device, under your control, and deleting
-the app deletes it. For crash reports, contact `[PRIVACY CONTACT EMAIL]` with
+the app deletes it. For crash reports, contact info@kalikalyceum.com with
 enough detail to identify the report and we will act on your request.
 
 If you are in the UK, you may complain to the Information Commissioner's
@@ -533,7 +530,7 @@ apply, here is the position:
 - **We do not discriminate** against anyone for exercising a privacy right.
   There is nothing to withhold: declining analytics changes nothing about what
   the app does.
-- To exercise any right, write to `[PRIVACY CONTACT EMAIL]`. We will answer
+- To exercise any right, write to info@kalikalyceum.com. We will answer
   within the period your state's law allows, and if we cannot link a request to
   any record — which is likely, because we hold nothing that identifies you —
   we will tell you that plainly rather than ask for identifying information we
@@ -554,5 +551,5 @@ accept the updated policy.
 
 ## 12. Contact
 
-`[PRIVACY CONTACT EMAIL]`
-`[LEGAL NAME]`, `[ADDRESS]`
+info@kalikalyceum.com
+Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
