@@ -7,9 +7,7 @@ permalink: /terms
 
 # Terms of Use
 
-**DRAFT — not legal advice. Review with a qualified lawyer before publishing.**
-
-**Effective date:** September 19, 2026
+**Effective date:** September 21, 2026
 **Provided by:** Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
 **Contact:** info@kalikalyceum.com
 

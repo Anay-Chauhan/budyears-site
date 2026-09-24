@@ -7,10 +7,8 @@ permalink: /privacy
 
 # Privacy Policy
 
-**DRAFT — not legal advice. Review with a qualified lawyer before publishing.**
-
-**Effective date:** September 19, 2026
-**Last updated:** September 19, 2026
+**Effective date:** September 21, 2026
+**Last updated:** September 21, 2026
 **Provided by:** Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
 **Contact:** info@kalikalyceum.com
 
@@ -393,34 +391,6 @@ Crash reports contain no profiling information, and can be switched off at
 The person responsible for privacy protection is **Priyanka Chauhan,
 Co-founder**, reachable at info@kalikalyceum.com.
 
-**Mexico**
-
-Mexican data protection law requires a privacy notice (*aviso de privacidad*)
-stating who is responsible, what is collected, why, and how you may exercise
-your ARCO rights — **acceso, rectificación, cancelación y oposición**. This
-document is that notice.
-
-The responsible party is Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA. To exercise any ARCO
-right, or to withdraw consent, write to info@kalikalyceum.com. Because we
-hold no information that identifies you, the usual answer will be that there is
-nothing to access, correct, or delete beyond what uninstalling the app removes
-— and we will say so rather than pretend otherwise.
-
-`[DEVELOPER: Mexico replaced the LFPDPPP in 2025 and moved oversight away from
-INAI. The requirements above are the long-standing ones and are unlikely to
-have been dropped, but the current regulator, its name, and the complaint route
-must be confirmed before publishing. Do not take this paragraph as current.]`
-
-**Language**
-
-This policy is written in English only. Quebec's *Charter of the French
-Language* and Mexican consumer law both require consumer-facing documents to be
-available in French and Spanish respectively.
-
-`[DEVELOPER: translations are required before publishing in Quebec or Mexico.
-The app itself is English-only, which is a separate question from the documents
-and may matter to store review in those markets.]`
-
 **A note for the UK**
 
 The UK Children's Code (Age Appropriate Design Code) applies to services likely
@@ -428,8 +398,6 @@ to be accessed by under-18s, which Bud Years plainly is. We have written this
 policy to be readable by the students who use the app, kept collection to the
 minimum that answers a real question, defaulted analytics to **off** in the UK
 and EU/EEA, and used no nudges to push anyone into turning it on.
-`[A Data Protection Impact Assessment is REQUIRED under the Code. It must be
-written, kept, and reviewed — it is not part of this policy.]`
 
 ## 7. Where information is processed
 
