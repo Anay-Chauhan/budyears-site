@@ -7,8 +7,8 @@ permalink: /privacy
 
 # Privacy Policy
 
-**Effective date:** September 21, 2026
-**Last updated:** September 21, 2026
+**Effective date:** October 13, 2026
+**Last updated:** October 13, 2026
 **Provided by:** Kalika Lyceum LLC, 11583 Morning Spring Ct, Cupertino, CA 95014, USA
 **Contact:** info@kalikalyceum.com
 
@@ -425,7 +425,7 @@ transfer.
 - **On-device data:** until you delete it, or delete the app. You can clear
   your practice history at any time from **Settings → Clear practice history**.
 - **Crash reports:** retained by Firebase Crashlytics for up to 90 days.
-- **Usage analytics:** retained for `[2 or 14]` months, after which
+- **Usage analytics:** retained for 14 months, after which
   event-level records are deleted automatically by Firebase. Aggregate
   statistics that cannot identify any device may be kept longer.
 - **Server request logs:** retained by Google under their own retention terms.
